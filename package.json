@@ -1,17 +1,16 @@
-
 {
-"name": "auto99",
-"theme": "auto99",
-"version": "10.9.6",
-"description": "auto99 ทางเข้าหลักเว็บพนันเว็บตรง ระบบออโต้ ให้เงินเครดิตฟรี",
-"keywords": [
-"auto99",
-"auto99 เครดิตฟรี",
-"auto99 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/auto99",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "auto99",
+  "theme": "auto99",
+  "version": "10.10.0",
+  "description": "auto99 ทางเข้าหลักเว็บพนันเว็บตรง ระบบออโต้ ให้เงินเครดิตฟรี",
+  "keywords": [
+    "auto99",
+    "auto99 เครดิตฟรี",
+    "auto99 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/auto99",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
